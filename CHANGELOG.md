@@ -1,3 +1,23 @@
+## 2016-05-08 Release XX.XX.XX
+
+### Added
+
+- allow absent for ensure attribute
+
+### Fixed
+
+- Link to badges
+- Correct handle of ensure attribute for nodejs
+
+### Maintenance
+
+- partial reformat of code for better readability
+- Change npm_package_name default value from "undef" to "false" for better comparison
+- Update apt-get database before package installation
+- enhance RHEL6 support
+- enhance BSD support
+
+
 ## 2016-01-07 Release 1.3.0
 
 ### Fixed
