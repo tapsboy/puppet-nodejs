@@ -1,4 +1,4 @@
-## 2016-05-08 Release XX.XX.XX
+## 2016-05-08 Release 2.0.0
 
 ### Added
 
@@ -16,6 +16,7 @@
 - Update apt-get database before package installation
 - enhance RHEL6 support
 - enhance BSD support
+- Drop Ruby1.8.7 support
 
 
 ## 2016-01-07 Release 1.3.0
